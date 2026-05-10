@@ -1,0 +1,1 @@
+function r(n,e="USD",i="en-US"){return isNaN(n)?`${e} 0.00`:new Intl.NumberFormat(i,{style:"currency",currency:e,minimumFractionDigits:2,maximumFractionDigits:2}).format(n)}function t(n){return{draft:"Draft",pending:"Pending",paid:"Paid",void:"Void",overdue:"Overdue"}[n]??n}function a(n,e){return e===0?"0%":`${Math.min(100,Math.round(n/e*100))}%`}export{r as f,a as g,t as i};
