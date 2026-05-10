@@ -4,7 +4,7 @@ A hosted Storybook component library extracted from the [FlexPrice](https://admi
 
 ## 🚀 Live Demo
 
-[View Storybook →](#) *(Vercel URL after deployment)*
+[View Storybook →](#) (https://storybook-anqu.vercel.app/?path=/docs/atoms-badge--docs)
 
 ## 📦 Components
 
