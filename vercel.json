@@ -1,7 +1,5 @@
 {
   "buildCommand": "npm run build-storybook",
   "outputDirectory": "storybook-static",
-  "framework": {
-    "name": "@vercel/static"
-  }
+  "framework": null
 }
